@@ -5,7 +5,7 @@
 <div align=center>
 	<h3>프론트엔드 개발자 지망생 박성우입니다.</h3>
 	<br>
-	<div>:seedling:Languages:seedling:</div>  
+	<div>:seedling:Tech:seedling:</div>  
 	<br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
