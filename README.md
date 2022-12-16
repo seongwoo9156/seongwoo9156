@@ -13,7 +13,7 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<br>
 	<br>
-	<div>:seedling:Tools:seedling:</div>
+	<div>:seedling:Tool:seedling:</div>
 	<br>
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
